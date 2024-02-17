@@ -1,15 +1,15 @@
 Hi 👋 My name is Om Ingole
 ==========================
 
-Web Developer
+Data Scientist
 -------------
 
-I've been learning to code and develop responsive and creative websites.
+I've been learning to code and develop Machine Learning Models
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [omingole.work@gmail.com](mailto:omingole.work@gmail.com)
-* 🧠  I'm learning React.js and Next.js
-* 🤝  I'm open to collaborating on React.js projects
+* 🧠  I am working On Machine Learning Projects 
+* 🤝  I'm open to collaborating on  Machine Learning Deep Learning Projects
 
 ### Skills
 
